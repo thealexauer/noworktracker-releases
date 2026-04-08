@@ -10,12 +10,12 @@
         <!-- Releases are prepended here by create-dmg.sh -->
 
         <item>
-            <title>Version 2.0.0-pre5</title>
-            <sparkle:version>2.0.0-pre5</sparkle:version>
-            <pubDate>Wed, 08 Apr 2026 08:53:23 +0000</pubDate>
+            <title>Version 2.0.0-pre6</title>
+            <sparkle:version>2.0.0-pre6</sparkle:version>
+            <pubDate>Wed, 08 Apr 2026 09:01:17 +0000</pubDate>
             <enclosure
-                url="https://github.com/thealexauer/noworktracker/releases/download/v2.0.0-pre5/NoWorkTracker.dmg"
-                sparkle:edSignature="pYT+/5A+9oyDy7eRL6nNqzIPUIHTFbgqqBi9hx3Mac5qbswc9QMguva+AGXrUOCYRnckbYGCMFWUqoDGcTAOBw==" length="3259228"
+                url="https://github.com/thealexauer/noworktracker/releases/download/v2.0.0-pre6/NoWorkTracker.dmg"
+                sparkle:edSignature="hxHmjXnpbI0QtYc87sey3nkedNLK8ihEFlXps1FhP9mymS4P3rOdDO5teZ8t35QVXxd4PxF/I+mDMZrwldM9Dg==" length="3263346"
                 type="application/octet-stream" />
         </item>
 
