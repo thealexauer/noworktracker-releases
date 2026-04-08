@@ -10,12 +10,22 @@
         <!-- Releases are prepended here by create-dmg.sh -->
 
         <item>
+            <title>Version 2.1.2</title>
+            <sparkle:version>2.1.2</sparkle:version>
+            <pubDate>Wed, 08 Apr 2026 12:22:42 +0000</pubDate>
+            <enclosure
+                url="https://api.github.com/repos/thealexauer/noworktracker/releases/assets/391558592"
+                sparkle:edSignature="7vGIwfiAPr7KOpfscGdb1rv/JhhCF/RAeYCDc54uNBEWNsCD62+rK2ye42pE4qyG4bJ04M8EJDV0XO2hkG0hCw==" length="3302810"
+                type="application/octet-stream" />
+        </item>
+
+        <item>
             <title>Version 2.1.1</title>
             <sparkle:version>2.1.1</sparkle:version>
-            <pubDate>Wed, 08 Apr 2026 12:11:49 +0000</pubDate>
+            <pubDate>Wed, 08 Apr 2026 12:10:57 +0000</pubDate>
             <enclosure
-                url="https://api.github.com/repos/thealexauer/noworktracker/releases/assets/391553114"
-                sparkle:edSignature="wqiSVdWVq80kp9YyFPhoZpaV2v+VvWolHJDTKxw1pf+oEoTBoKz507jjS19ocAfvOoPE8mULB41i6A8CZFSBBg==" length="3298601"
+                url="https://github.com/thealexauer/noworktracker/releases/download/v2.1.1/NoWorkTracker.dmg"
+                sparkle:edSignature="tx0wzFeoUBc8OzbWfgFlX9pCbExE6t6G5c77Gt0fSCaGNWJ2oGelyXUvbnnmg5ZdbqeCb4hHP+JHdRv5Chc3Dw==" length="3302874"
                 type="application/octet-stream" />
         </item>
 
