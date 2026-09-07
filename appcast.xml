@@ -10,12 +10,12 @@
         <!-- Releases are prepended here by create-dmg.sh -->
 
         <item>
-            <title>Version 2.6.25</title>
-            <sparkle:version>2.6.25</sparkle:version>
-            <pubDate>Mon, 07 Sep 2026 08:09:38 +0000</pubDate>
+            <title>Version 2.6.26</title>
+            <sparkle:version>2.6.26</sparkle:version>
+            <pubDate>Mon, 07 Sep 2026 09:02:02 +0000</pubDate>
             <enclosure
-                url="https://api.github.com/repos/thealexauer/noworktracker/releases/assets/548418051"
-                sparkle:edSignature="xa/4vTRZXsQuZRyDNvXTJgxte8NKFFKF+pnxxc/NkVvzqHJgNRNCjYffLk1wYWS/eiiY/b7rLRNuyKBwtiUFCA==" length="6483025"
+                url="https://api.github.com/repos/thealexauer/noworktracker/releases/assets/548492560"
+                sparkle:edSignature="Z7Y7I6urErjbO/QMBtvVH0Nz0WdFG7z08n9cf/pMFtlqaaNi6ND/mEnMGGYem2EWQfRuEClCndFyJFvbyprWCQ==" length="6507591"
                 type="application/octet-stream" />
         </item>
 
