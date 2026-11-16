@@ -14,12 +14,12 @@
         <!-- Releases are prepended here by create-dmg.sh -->
 
         <item>
-            <title>Version 2.6.31</title>
-            <sparkle:version>2.6.31</sparkle:version>
-            <pubDate>Mon, 16 Nov 2026 11:00:49 +0000</pubDate>
+            <title>Version 2.6.32</title>
+            <sparkle:version>2.6.32</sparkle:version>
+            <pubDate>Mon, 16 Nov 2026 12:02:10 +0000</pubDate>
             <enclosure
-                url="https://api.github.com/repos/afterworker/noworktracker/releases/assets/754512156"
-                sparkle:edSignature="YanAIvY/EnYyoElM3clmQ63wX03reOUOsnjjNdDPo4Txg+vKKgBFPOyVY3vxs7BM4qDuUoz3BpHGVlip067+BQ==" length="7052332"
+                url="https://api.github.com/repos/afterworker/noworktracker/releases/assets/754695124"
+                sparkle:edSignature="iBgoWpy9HwxwcVtd54PNn3vn1D30syoNGfqk88JSe4ApymIL2I4kDdWaJH/F4KWrNqDX7qwo8d+QyVHFvBHmDg==" length="7053628"
                 type="application/octet-stream" />
         </item>
 
