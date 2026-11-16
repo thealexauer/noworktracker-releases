@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- HISTORICAL: this repo-root appcast is not the live update feed. The app's
+     SUFeedURL (Info.plist) points to the noworktracker-releases repo. This file is
+     kept only as the working copy that scripts/create-dmg.sh and
+     .github/workflows/release.yml update and copy there. -->
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>NoWorkTracker</title>
-        <link>https://raw.githubusercontent.com/thealexauer/noworktracker/main/appcast.xml</link>
+        <link>https://raw.githubusercontent.com/afterworker/noworktracker/main/appcast.xml</link>
         <description>NoWorkTracker release feed</description>
         <language>en</language>
 
         <!-- Releases are prepended here by create-dmg.sh -->
 
         <item>
-            <title>Version 2.6.29</title>
-            <sparkle:version>2.6.29</sparkle:version>
-            <pubDate>Mon, 09 Nov 2026 13:18:37 +0000</pubDate>
+            <title>Version 2.6.30</title>
+            <sparkle:version>2.6.30</sparkle:version>
+            <pubDate>Mon, 16 Nov 2026 06:25:44 +0000</pubDate>
             <enclosure
-                url="https://api.github.com/repos/thealexauer/noworktracker/releases/assets/727560314"
-                sparkle:edSignature="RaOLoZ7esAyHKi2tKO9+e9X4jw4dtvjdrK7wqNN5WaNfixvc+byzOemwfELXk0xnUMjSRIU30kj7hHfSeM8GAg==" length="6489098"
+                url="https://api.github.com/repos/afterworker/noworktracker/releases/assets/753733552"
+                sparkle:edSignature="PWLRNOCL+NWphHendEHekF5AuMXUXkJUsgo9r/KpnAEVDYjikoPfB5knNLNBDkyj6y3UBHO9AWS0SooVEcKXBw==" length="6586778"
                 type="application/octet-stream" />
         </item>
 
@@ -24,7 +28,7 @@
             <sparkle:version>2.1.2</sparkle:version>
             <pubDate>Wed, 08 Apr 2026 12:21:53 +0000</pubDate>
             <enclosure
-                url="https://github.com/thealexauer/noworktracker/releases/download/v2.1.2/NoWorkTracker.dmg"
+                url="https://github.com/afterworker/noworktracker/releases/download/v2.1.2/NoWorkTracker.dmg"
                 sparkle:edSignature="TffFqvkf/XDkryycI6dDrKCItZL6HUMqqrLMSQsrFkRcLx7RADnpN39rb/xcsoAMaHl6VX/qD3PhrtDjzWC4DQ==" length="3304551"
                 type="application/octet-stream" />
         </item>
@@ -34,7 +38,7 @@
             <sparkle:version>2.1.1</sparkle:version>
             <pubDate>Wed, 08 Apr 2026 12:10:57 +0000</pubDate>
             <enclosure
-                url="https://github.com/thealexauer/noworktracker/releases/download/v2.1.1/NoWorkTracker.dmg"
+                url="https://github.com/afterworker/noworktracker/releases/download/v2.1.1/NoWorkTracker.dmg"
                 sparkle:edSignature="tx0wzFeoUBc8OzbWfgFlX9pCbExE6t6G5c77Gt0fSCaGNWJ2oGelyXUvbnnmg5ZdbqeCb4hHP+JHdRv5Chc3Dw==" length="3302874"
                 type="application/octet-stream" />
         </item>
@@ -44,7 +48,7 @@
             <sparkle:version>2.1.0</sparkle:version>
             <pubDate>Wed, 08 Apr 2026 11:59:43 +0000</pubDate>
             <enclosure
-                url="https://github.com/thealexauer/noworktracker/releases/download/v2.1.0/NoWorkTracker.dmg"
+                url="https://github.com/afterworker/noworktracker/releases/download/v2.1.0/NoWorkTracker.dmg"
                 sparkle:edSignature="snwwTlZ2LsRQ+3c3EB7UVW8Gy1lnR9MvZYf8kNJmfsPycx5exbrR07uLIACMk6BVGbDDMqIkkJ6tLP+ML5qPDA==" length="3300310"
                 type="application/octet-stream" />
         </item>
@@ -54,7 +58,7 @@
             <sparkle:version>2.0.9</sparkle:version>
             <pubDate>Wed, 08 Apr 2026 11:56:12 +0000</pubDate>
             <enclosure
-                url="https://github.com/thealexauer/noworktracker/releases/download/v2.0.9/NoWorkTracker.dmg"
+                url="https://github.com/afterworker/noworktracker/releases/download/v2.0.9/NoWorkTracker.dmg"
                 sparkle:edSignature="kLqgQ/8jiFMwu412+Tdy093JuaWJLXzJnk2K0D1kx1zL4jl+nLzJtHy1gNyBU3TnoDQWk8sH/7rhUDACVpp7Cg==" length="3300341"
                 type="application/octet-stream" />
         </item>
@@ -64,7 +68,7 @@
             <sparkle:version>1.2.4</sparkle:version>
             <pubDate>Fri, 20 Feb 2026 08:13:52 +0000</pubDate>
             <enclosure
-                url="https://github.com/thealexauer/noworktracker/releases/download/v1.2.4/NoWorkTracker.dmg"
+                url="https://github.com/afterworker/noworktracker/releases/download/v1.2.4/NoWorkTracker.dmg"
                 sparkle:edSignature="SVDH6f0/yjOpiGy4QA5ozacGenMOT2SL/hrQ3WSMlRnmxcYkGHGhv4BGXV2JACm84bu5SEbCzAKtZTCsahdXCQ==" length="7094515"
                 type="application/octet-stream" />
         </item>
@@ -74,7 +78,7 @@
             <sparkle:version>1.2.3</sparkle:version>
             <pubDate>Fri, 20 Feb 2026 08:09:13 +0000</pubDate>
             <enclosure
-                url="https://github.com/thealexauer/noworktracker/releases/download/v1.2.3/NoWorkTracker.dmg"
+                url="https://github.com/afterworker/noworktracker/releases/download/v1.2.3/NoWorkTracker.dmg"
                 sparkle:edSignature="KubvQS6qaJ37w7JCGKlbpa/hG9GtLYgvGtXfeCtK5AH2ThPIq0rBXGKGQ2f6eW5MwKhguO4Sh5wM70Fy1+5kDA==" length="7093493"
                 type="application/octet-stream" />
         </item>
@@ -84,7 +88,7 @@
             <sparkle:version>1.2.2</sparkle:version>
             <pubDate>Fri, 20 Feb 2026 08:02:11 +0000</pubDate>
             <enclosure
-                url="https://github.com/thealexauer/noworktracker/releases/download/v1.2.2/NoWorkTracker.dmg"
+                url="https://github.com/afterworker/noworktracker/releases/download/v1.2.2/NoWorkTracker.dmg"
                 sparkle:edSignature="cLUf583VtU4PHCzlaSm98Xj9lwaAnFWCBop6XYN/4Uk39mA6cr+2bYEZT2Oy0ug4cIH8GnmNkZXq36SXzIurAQ=="
                 length="7093815"
                 type="application/octet-stream" />
